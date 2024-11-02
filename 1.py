@@ -1,6 +1,6 @@
 # up code này lên github chẳng hạn (nhớ enc)
 code = """
-status = False
+status = True
 """
 exec(code)
 
