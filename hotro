@@ -1,0 +1,6 @@
+HƯỚNG DẪN SỬ DỤNG TOOL
+Bước 1: Khi mới tải Termux bạn cần setup với các lệnh dưới ( mỗi lệnh 1 dòng ) nếu bạn đã setup trước đó thì lần sau vào tool bạn chỉ cần khởi động tool ở bước 2:
+termux-setup-storage && apt update && apt upgrade && pkg install php && pkg install python && pip install requests && cd /sdcard/download && python tênfile.py
+Nhập chạy từng dòng! Có lệnh hỏi (y/n) thì nhập y rồi bấm xuống dòng
+Bước 2: Khởi Động Tool Và Chạy Lệnh:
+cd /sdcard/download && python tênfile.py
